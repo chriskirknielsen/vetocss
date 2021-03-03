@@ -1,0 +1,21 @@
+{
+  "name": "vetocss",
+  "version": "1.0.0",
+  "description": "Remove style blocks matching a specific selector from a stylesheet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "veto",
+    "remove",
+    "clean",
+    "stylesheet",
+    "selector",
+    "blocklist"
+  ],
+  "author": "Christopher Kirk-Nielsen",
+  "license": "MIT",
+  "repository": "chriskirknielsen/vetocss"
+}
