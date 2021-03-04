@@ -1,6 +1,6 @@
 {
   "name": "vetocss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove style blocks matching a specific selector from a stylesheet.",
   "main": "index.js",
   "scripts": {
